@@ -5,26 +5,15 @@ In our project, we have three main files:
 
 1. `In our project, we have three main files:
 
-1. `models_accuracy.xlsx`:
+1. `ModelsAccuracyTable.xlsx`:
    - This Excel file contains the accuracy values of various models used for fake news detection. It provides a summary of the model performances, including the ML and DL models we employed.
 
-2. `LSTM_deep_learning_model.py`:
+2. `FakeNewsClassifierUsingLSTM.ipynb`:
    - This Python script focuses on implementing the LSTM deep learning model for fake news detection. The LSTM model leverages its recurrent architecture to capture sequential dependencies in textual data, making it suitable for analyzing news articles.
 
-3. `fake_news_detection_using_ML.py`:
+3. `FakeNewsDetection using ML.ipynb`:
    - This Python script serves as the main file for our fake news detection using ML techniques. It encompasses the implementation of multiple ML models such as Logistic Regression, Multinomial Naive Bayes, Support Vector Classifier, Decision Tree Classifier, Random Forest Classifier, Ensemble Learning, Passive Aggressive Classifier, and AdaBoost Classifier. These models have been trained and evaluated for the task of detecting fake news.
-
-By separating the implementation into different files, we maintain a modular and organized structure for our project. The `models_accuracy.xlsx` file provides an overview of the models' performances, while the `LSTM_deep_learning_model.py` and `fake_news_detection_using_ML.py` files contain the specific code for each approach.`:
-   - This Excel file contains the accuracy values of various models used for fake news detection. It provides a summary of the model performances, including the ML and DL models we employed.
-
-2. `LSTM_deep_learning_model.py`:
-   - This Python script focuses on implementing the LSTM deep learning model for fake news detection. The LSTM model leverages its recurrent architecture to capture sequential dependencies in textual data, making it suitable for analyzing news articles.
-
-3. `fake_news_detection_using_ML.py`:
-   - This Python script serves as the main file for our fake news detection using ML techniques. It encompasses the implementation of multiple ML models such as Logistic Regression, Multinomial Naive Bayes, Support Vector Classifier, Decision Tree Classifier, Random Forest Classifier, Ensemble Learning, Passive Aggressive Classifier, and AdaBoost Classifier. These models have been trained and evaluated for the task of detecting fake news.
-
-By separating the implementation into different files, we maintain a modular and organized structure for our project. The `models_accuracy.xlsx` file provides an overview of the models' performances, while the `LSTM_deep_learning_model.py` and `fake_news_detection_using_ML.py` files contain the specific code for each approach.
-
+     
 1. LSTM (DL Model): Accuracy - 0.9528
    - Long Short-Term Memory (LSTM) is a type of recurrent neural network (RNN) commonly used for sequence classification tasks like text analysis.
 
