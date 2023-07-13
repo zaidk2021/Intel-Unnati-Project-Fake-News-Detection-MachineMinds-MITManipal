@@ -1,5 +1,5 @@
 # Intel-Unnati-Project-Fake-News-Detection-Using-Python-and-Machine-Learning
-Our team Machine Minds which includes `Zaid Khan`,`Abhigyan Chakraborty`,`Akshay Singh` from MIT Manipal
+Our team Machine Minds which includes `Zaid Khan`,`Abhigyan Basak`,`Akshay Singh` from MIT Manipal
 As a part of the Intel Unnati Industrial Training.This is our project, we have used several machine learning (ML) and deep learning (DL) models to detect fake news. Here is a summary of the models and their corresponding accuracies:
 Our dataset: https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/
 In our project, we have three main files:
