@@ -1,4 +1,4 @@
-# Intel-Unnati-Project-Fake-News-Detection
+# Intel-Unnati-Project-Fake-News-Detection-Using-Python-and-Machine-Learning
 As a part of the Intel Unnati Industrial Training.This is our project, we have used several machine learning (ML) and deep learning (DL) models to detect fake news. Here is a summary of the models and their corresponding accuracies:
 In our project, we have three main files:
 
