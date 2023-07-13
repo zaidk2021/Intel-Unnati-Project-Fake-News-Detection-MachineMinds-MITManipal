@@ -3,15 +3,15 @@ Fake News Detection using Python and ML
 In our project, we have used several machine learning (ML) and deep learning (DL) models to detect fake news. Here is a summary of the models and their corresponding accuracies:
 In our project, we have three main files:
 
-1. `In our project, we have three main files:
+. `In our project, we have three main files:
 
-1. `ModelsAccuracyTable.xlsx`:
+a. `ModelsAccuracyTable.xlsx`:
    - This Excel file contains the accuracy values of various models used for fake news detection. It provides a summary of the model performances, including the ML and DL models we employed.
 
-2. `FakeNewsClassifierUsingLSTM.ipynb`:
+b. `FakeNewsClassifierUsingLSTM.ipynb`:
    - This Python script focuses on implementing the LSTM deep learning model for fake news detection. The LSTM model leverages its recurrent architecture to capture sequential dependencies in textual data, making it suitable for analyzing news articles.
 
-3. `FakeNewsDetection using ML.ipynb`:
+c. `FakeNewsDetection using ML.ipynb`:
    - This Python script serves as the main file for our fake news detection using ML techniques. It encompasses the implementation of multiple ML models such as Logistic Regression, Multinomial Naive Bayes, Support Vector Classifier, Decision Tree Classifier, Random Forest Classifier, Ensemble Learning, Passive Aggressive Classifier, and AdaBoost Classifier. These models have been trained and evaluated for the task of detecting fake news.
      
 1. LSTM (DL Model): Accuracy - 0.9528
