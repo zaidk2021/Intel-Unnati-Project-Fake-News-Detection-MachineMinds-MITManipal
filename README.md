@@ -2,8 +2,6 @@
 As a part of the Intel Unnati Industrial Training.This is our project, we have used several machine learning (ML) and deep learning (DL) models to detect fake news. Here is a summary of the models and their corresponding accuracies:
 In our project, we have three main files:
 
-. `In our project, we have three main files:
-
 a. `ModelsAccuracyTable.xlsx`:
    - This Excel file contains the accuracy values of various models used for fake news detection. It provides a summary of the model performances, including the ML and DL models we employed.
 
