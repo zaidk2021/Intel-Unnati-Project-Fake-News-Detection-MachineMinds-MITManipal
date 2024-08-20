@@ -46,3 +46,4 @@ c. `FakeNewsDetection using ML.ipynb`:
    - AdaBoost Classifier is an ensemble learning method that iteratively combines weak classifiers to create a strong classifier.
 
 These models have been trained and evaluated on our dataset for fake news detection. Each model has achieved a certain level of accuracy, which indicates its performance in classifying news articles as real or fake.
+Dataset readme https://onlineacademiccommunity.uvic.ca/isot/wp-content/uploads/sites/7295/2023/02/ISOT_Fake_News_Dataset_ReadMe.pdf
