@@ -7,7 +7,7 @@ ML Model:   https://drive.google.com/file/d/1za0RCrffhMxRpk06OxAT5IbvaaA6RKtO/vi
 LSTM Model: https://drive.google.com/file/d/1huocyh-LhN7TiHH0G3M8g_vUm2MCLDDL/view?usp=drive_link
 
 
-In our project, we have three main files:
+In our project, we have three main files:-
 
 a. `ModelsAccuracyTable.xlsx`:
    - This Excel file contains the accuracy values of various models used for fake news detection. It provides a summary of the model performances, including the ML and DL models we employed.
